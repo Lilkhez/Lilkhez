@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lilkhez
-- 👀 I’m interested in Machine learning and data science
-- 💞️ I’m done with a full course on python
+- 👀 I’m interested in Artificial intelligence, Machine learning and data science.
+- 💞️ I have taken courses on Python where I've built different projects
 - 📫 How to reach me :
 Email- horlanrewaju06@gmail.com 
 
