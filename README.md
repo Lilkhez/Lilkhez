@@ -2,7 +2,7 @@
 
 📊 Aspiring Data Analyst & Scientist | 🤖 AI & Machine Learning Enthusiast
 
-🎓 Undergraduate of Information technology | 📚 Lifelong Learner
+🎓 Undergraduate of Information Technology | 📚 Lifelong Learner
 
 🔍 Keen Problem Solver | 👁️ Detail-Oriented
 
