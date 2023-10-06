@@ -14,7 +14,8 @@
 
 👨‍💻 Excited to collaborate on projects and learn from the open-source community
 
-📂 Check out my repositories below and feel free to connect!
+📂 Check out my repositories below and feel free to connect with me on
+    - Linkedin - www.linkedin.com/in/abdullahi-abdulsalam-004a83228
 
 
 
