@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Abdullahi
 
-📊 Entry Level Data Analyst & Scientist | 🤖 AI & Machine Learning Enthusiast
+📊 Data Analyst & Scientist | 🤖 AI & Machine Learning Enthusiast
 
 🎓 Undergraduate of Information Technology | 📚 Lifelong Learner
 
