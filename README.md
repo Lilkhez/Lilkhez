@@ -1,21 +1,32 @@
-### 👋 Hello, I'm Abdullahi
+> whoami
 
-📊 Data Analyst & Scientist | 🤖 AI & Machine Learning Enthusiast
+    ❗ error: insufficient privileges.
 
-🎓 Undergraduate of Information Technology | 📚 Lifelong Learner
+    👁️ try social engineering.
 
-🔍 Keen Problem Solver | 👁️ Detail-Oriented
+Current obsessions:
 
-🛠️ Proficient in Data Analysis and Data Science Tools: [Spreadsheet, Tableau, Python, R, SQL]
+    🔍 Detection engineering — writing rules that catch the real stuff and ignore the noise
+    🧪 Attack simulation — understanding adversary behaviour before building defences
+    ⚙️ Automation — if I do something twice manually, I write a script for it
+    🧠 AI in security — how large language models can augment analyst workflows
 
-🌱 Always exploring new horizons in data science & analytics
 
-📖 Currently taking courses in AI and Machine Learning to deepen my knowledge
 
-👨‍💻 Excited to collaborate on projects and learn from the open-source community
+Things I actually use:
 
-📂 Check out my repositories below and feel free to connect with me on
-    - Linkedin - www.linkedin.com/in/abdullahi-abdulsalam-004a83228
+    SIEM          →  Splunk | Wazuh | Microsoft Sentinel | Elastic
+    Forensics     →  Volatility | Autopsy | Velociraptor | Wireshark | KAPE
+    Endpoints     →  CrowdStrike | Defender | SentinelOne | Intune
+    Cloud         →  Azure | AWS | GCP | Defender for Cloud
+    Scripting     →  Python | PowerShell | KQL | SQL
+    Frameworks    →  MITRE ATT&CK | ACSC Essential 8 | NIST CSF
+
+
+📂 Check out my repositories below. 
+
+Find Me Elsewhere:
+> Linkedin - www.linkedin.com/in/abdullahi-abdulsalam-004a83228
 
 
 
